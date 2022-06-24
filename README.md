@@ -1,0 +1,1 @@
+Asp.Net Core 6.0 ile Angular 14.0.2 kullanılarak Rest API ile frontend bağlantısı hakkında örnek proje
